@@ -1,6 +1,7 @@
 # Formularios
 /solicitud-servicio   https://oncemexico.org/solicitud-servicio   302
 /diagnostico-27001    https://oncemexico.org/diagnostico-completo/?norma=iso-27001   302
+/diagnostico-9001     https://oncemexico.org/diagnostico-completo/?norma=iso-9001   302
 /diagnostico-haccp    https://oncemexico.org/diagnostico-completo/?norma=haccp   302
 
 # Recursos
@@ -9,6 +10,7 @@
 /guia-27001           https://once-mexico-documentos.s3.us-west-2.amazonaws.com/guias/guia-iso27001-once.pdf   302
 /guia-haccp           https://once-mexico-documentos.s3.us-west-2.amazonaws.com/guias/guia-haccp-once.pdf   302
 /ebook-27001          https://once-mexico-documentos.s3.us-west-2.amazonaws.com/ebooks/ebook-iso27001-once.pdf   302
+/ebook-9001           https://once-mexico-documentos.s3.us-west-2.amazonaws.com/ebooks/ebook-iso9001-once.pdf   302
 
 # Cursos (brochures en once-site)
 /cursos                          https://oncemexico.org/pages/cursos/   302
