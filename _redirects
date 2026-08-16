@@ -39,9 +39,13 @@
 /brochure-gdpr-foundation                  https://oncemexico.org/assets/brochures/gdpr-foundation.pdf   302
 /brochure-gdpr-cdpo                        https://oncemexico.org/assets/brochures/gdpr-cdpo.pdf   302
 
-# Pago de cursos (Stripe Payment Links — aceptan 3/6/9/12 MSI desde 2026-08-16)
-/pago-42001-lead-implementer     https://buy.stripe.com/14A5kD1mbe62cPe9Ue3F61q   302
-/pago-42001-lead-auditor         https://buy.stripe.com/dRmcN5e8X3rocPe3vQ3F61r   302
+# Pago de cursos (Stripe Payment Links)
+# Contado = precio base. "-meses" = recargo MSI 12.5% incluido (el cliente absorbe
+# la comisión de meses; mínimos por plan en Stripe bloquean MSI en los de contado).
+/pago-42001-lead-implementer        https://buy.stripe.com/14A5kD1mbe62cPe9Ue3F61q   302
+/pago-42001-lead-auditor            https://buy.stripe.com/dRmcN5e8X3rocPe3vQ3F61r   302
+/pago-42001-lead-implementer-meses  https://buy.stripe.com/fZu28rfd11jg3eE7M63F61v   302
+/pago-42001-lead-auditor-meses      https://buy.stripe.com/9B614n7Kz3ro5mM8Qa3F61w   302
 
 # Análisis de Brecha (diagnóstico → oferta pagada, 2026-08-16)
 /analisis-brecha                 https://buy.stripe.com/3cI6oH1mb9PM6qQc2m3F61t   302
