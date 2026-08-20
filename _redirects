@@ -39,11 +39,11 @@
 /brochure-gdpr-foundation                  https://oncemexico.org/assets/brochures/gdpr-foundation.pdf   302
 /brochure-gdpr-cdpo                        https://oncemexico.org/assets/brochures/gdpr-cdpo.pdf   302
 
-# Pago de cursos (Stripe Payment Links)
-# Contado = precio base. "-meses" = recargo MSI 12.5% incluido (el cliente absorbe
-# la comisión de meses; mínimos por plan en Stripe bloquean MSI en los de contado).
-/pago-42001-lead-implementer        https://buy.stripe.com/14A5kD1mbe62cPe9Ue3F61q   302
-/pago-42001-lead-auditor            https://buy.stripe.com/dRmcN5e8X3rocPe3vQ3F61r   302
+# Pago de cursos — TODO vía endpoint de qengine (meses por sesión; contado con
+# meses apagados). Precio = catálogo vivo; -meses = catálogo ÷ 0.875 red. a decena.
+/pago-42001-lead-implementer        https://crm.oncemexico.com/api/pago?curso=iso-42001-lead-implementer&plan=contado   302
+/pago-42001-lead-auditor            https://crm.oncemexico.com/api/pago?curso=iso-42001-lead-auditor&plan=contado   302
+/pago-9001-lead-auditor             https://crm.oncemexico.com/api/pago?curso=iso-9001-lead-auditor&plan=contado   302
 /pago-42001-lead-implementer-meses  https://crm.oncemexico.com/api/pago?curso=iso-42001-lead-implementer&plan=meses   302
 /pago-42001-lead-auditor-meses      https://crm.oncemexico.com/api/pago?curso=iso-42001-lead-auditor&plan=meses   302
 /pago-9001-lead-auditor-meses       https://crm.oncemexico.com/api/pago?curso=iso-9001-lead-auditor&plan=meses   302
