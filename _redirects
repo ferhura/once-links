@@ -48,11 +48,13 @@
 /pago-42001-lead-auditor-meses      https://crm.oncemexico.com/api/pago?curso=iso-42001-lead-auditor&plan=meses   302
 /pago-9001-lead-auditor-meses       https://crm.oncemexico.com/api/pago?curso=iso-9001-lead-auditor&plan=meses   302
 
-# Análisis de Brecha (diagnóstico → oferta pagada, 2026-08-16)
+# Análisis de Brecha (diagnóstico → servicio pagado, 2026-08-16)
+# 5-oct-2026 (Fer): se quitó la promoción de $3,900. Precio único $4,900 MXN.
+# Las ligas «-oferta» de correos viejos caen en el payment link de lista.
 /analisis-brecha                 https://buy.stripe.com/3cI6oH1mb9PM6qQc2m3F61t   302
-/analisis-brecha-oferta          https://buy.stripe.com/3cIcN58OD9PMcPe4zU3F61s   302
+/analisis-brecha-oferta          https://buy.stripe.com/3cI6oH1mb9PM6qQc2m3F61t   302
 /ejemplo-mapa-brechas             https://once-mexico-documentos.s3.us-west-2.amazonaws.com/ebooks/ejemplo-mapa-brechas-once.pdf   302
-/analisis-brecha-oferta-agosto   https://buy.stripe.com/4gMaEX2qf4vsdTi7M63F61u   302
+/analisis-brecha-oferta-agosto   https://buy.stripe.com/3cI6oH1mb9PM6qQc2m3F61t   302
 
 # Brochures 37301 (alta 2026-09-15, correo de cursos)
 /brochure-37301-foundation                 https://oncemexico.org/assets/brochures/iso-37301-foundation.pdf   302
